@@ -1,0 +1,36 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "jason.gullickson@gmail.com",
+    "longName": "wrist-reader",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "data/thc_intro_1.txt",
+                "name": "TEXT_THC_INTRO_1",
+                "type": "raw"
+            },
+            {
+                "file": "images/play.png",
+                "name": "IMAGE_PLAY",
+                "type": "png"
+            },
+            {
+                "file": "images/pause.png",
+                "name": "IMAGE_PAUSE",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "wrist-reader",
+    "uuid": "7fa43296-99a8-44cc-bcef-4a9bc395f916",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
